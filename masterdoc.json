@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "CloudLabs 2UValidation",
+        "Language": "English",
+        "Files": [
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/validation2u/main/metasploit/metasploit.md",
+                "Order": 1
+            }
+        ]
+    }
+]
