@@ -55,9 +55,11 @@ We will first set up a low-privileged shell using Metasploit, which you will the
     ![](./images/find.png)
 
 12. Run the commnd **cat /var/tmp/adminpassword.txt** to get the admin username and password.
+    
+14. Ensure to validate the exercise by navigating to the **Lab Valiadtion** Tab.
 
     ![](./images/cat.png)
 
-13. click on **ctrl + c** and then enter command **exit** from msfconsole.
+15. click on **ctrl + c** and then enter command **exit** from msfconsole.
 
     ![](./images/exit.png)
