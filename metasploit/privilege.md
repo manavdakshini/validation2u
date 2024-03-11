@@ -61,5 +61,3 @@ We will first set up a low-privileged shell using Metasploit, which you will the
 13. click on **ctrl + c** and then enter command **exit** from msfconsole.
 
     ![](./images/exit.png)
-
-**Note**: Password Authentication should be enabled in metasploit machine for successful ssh into it.
