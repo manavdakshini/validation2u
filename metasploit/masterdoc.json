@@ -8,11 +8,11 @@
                 "Order": 1
             },
             {
-                "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/validation2u/main/metasploit/privilege.md",
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/manavdakshini/validation2u/main/metasploit/privilege.md",
                 "Order": 2
             },
             {
-                "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/validation2u/main/metasploit/c2research.md",
+                "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/manavdakshini/validation2u/main/metasploit/c2research.md",
                 "Order": 3
             }
         ]
