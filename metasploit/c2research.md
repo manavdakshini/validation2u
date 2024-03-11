@@ -20,3 +20,7 @@ The service contract includes a few additional requirements:
 - You will bring on coworkers to help with this assessment, so the framework needs to support multiple users. 
 
 **Note**: It's okay if your primary C2 framework does not support all operating systems, as long as the secondary or tertiary framework supports the systems that the primary framework does not.
+
+**Ensure to validate the exercise by navigating to the lab validation tab**.
+
+  ![](./images/validation.png)
