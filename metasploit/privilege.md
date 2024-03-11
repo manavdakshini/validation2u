@@ -63,3 +63,7 @@ We will first set up a low-privileged shell using Metasploit, which you will the
 15. click on **ctrl + c** and then enter command **exit** from msfconsole.
 
     ![](./images/exit.png)
+
+16. Ensure to validate the exercise by navigating to the **Lab Validation** page.
+
+    ![](./images/validation.png)
