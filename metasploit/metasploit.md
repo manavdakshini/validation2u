@@ -42,3 +42,5 @@ In this demonstration we will be going to perform following steps:
     ![](./images/exploit.png)
 
 11. Enter command **exit** to exit from the MSFConsole.
+
+12. Ensure to validate the exercise by navigating to the **Lab Valiadtion** Tab.
