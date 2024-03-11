@@ -12,7 +12,7 @@ Using the [C2 Matrix site](https://www.thec2matrix.com/matrix) and Google, find 
 
 Throughout your initial scans on MegaCorpOne's domain, you've discovered several facts:
 - Their network includes mostly Windows machines, with some Linux machines scattered throughout.
-- Their firewall rules only allow ports 80, 443 TCP and port 53 UDP outbound. 
+- Their firewall rules only allow ports 80, 443 TCP and port 53 UDP outbound
 
 The service contract includes a few additional requirements:
 - The C2 framework must support logging.
