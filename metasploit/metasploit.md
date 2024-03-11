@@ -28,15 +28,17 @@ In this demonstration we will be going to perform following steps:
 
     ![](./images/ftp.png)
 
-6. Enter the command **use scanner/ftp/anonymous** to select the modlue and to list the info about module enter the command **info**.
+6. Enter the command **use scanner/ftp/anonymous** to select the modlue.
+7. To list the info about module enter the command **info**.
 
     ![](./images/useinfo.png)
 
-7. Enter the command **set RHOSTS 172.22.117.150** to set the RHOSTS value to the remote host's IP address.
+8. Enter the command **set RHOSTS 172.22.117.150** to set the RHOSTS value to the remote host's IP address.
 
     ![](./images/rhosts.png)
 
-8. Enter command **exploit** to launch the module.
+9. Enter command **exploit** to launch the module.
 
     ![](./images/exploit.png)
 
+11. Enter command **exit** to exit from the MSFConsole.
