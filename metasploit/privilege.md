@@ -64,6 +64,6 @@ We will first set up a low-privileged shell using Metasploit, which you will the
 
     ![](./images/exit.png)
 
-16. Ensure to validate the exercise by navigating to the **Lab Validation** page.
+# Validation 2: Privilege Escalation
 
-    ![](./images/validation.png)
+<validation step="474a2c1f-3736-4a89-9f59-e9c6dede4ca5" />
