@@ -43,6 +43,6 @@ In this demonstration we will be going to perform following steps:
 
 11. Enter command **exit** to exit from the MSFConsole.
 
-12. Ensure to validate the exercise by navigating to the **Lab Valiadtion** Tab.
+# Validation 1: Complete the execution of the auxiliary module
 
-    ![](./images/validation.png)
+<validation step="f91e5325-de96-4dd5-99c9-6f9f3e9e6314" />
