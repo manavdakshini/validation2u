@@ -45,4 +45,4 @@ In this demonstration we will be going to perform following steps:
 
 # Validation 1: Complete the execution of the auxiliary module
 
-<validation step="f91e5325-de96-4dd5-99c9-6f9f3e9e6314" />
+<validation step="1B510F56-A585-481F-923C-D566869EB522" />
