@@ -21,6 +21,32 @@ The service contract includes a few additional requirements:
 
 **Note**: It's okay if your primary C2 framework does not support all operating systems, as long as the secondary or tertiary framework supports the systems that the primary framework does not.
 
-**Ensure to validate the exercise by navigating to the lab validation tab**.
+**Answer the following Question by clicking on Validate button.**
 
-  ![](./images/validation.png)
+# Question 1:
+
+<validation step="e2d41aa6-75b1-456b-ba8f-ef61b789da32" />
+
+# Question 2:
+
+<validation step="a355776f-b831-4a90-8d23-4aeeed203222" />
+
+# Question 3:
+
+<validation step="667d752b-7a73-4498-b3f4-3c17f36a60f7" />
+
+# Question 4:
+
+<validation step="ac920c8d-307e-4d40-a4f5-120d4cf9106b" />
+
+# Question 5:
+
+<validation step="2c5fc6cf-0325-4bc7-ac3c-e7e88067a68a" />
+
+# Question 6:
+
+<validation step="d1affdb3-ae32-4196-aed6-4f95f2cb1ace" />
+
+
+
+
