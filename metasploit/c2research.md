@@ -25,27 +25,27 @@ The service contract includes a few additional requirements:
 
 # Question 1:
 
-<validation step="e2d41aa6-75b1-456b-ba8f-ef61b789da32" />
+<validation step="5C0D7169-4B5C-4DA2-A307-393364302FC3" />
 
 # Question 2:
 
-<validation step="a355776f-b831-4a90-8d23-4aeeed203222" />
+<validation step="493C65C5-CBFF-464D-96FA-025668449576" />
 
 # Question 3:
 
-<validation step="667d752b-7a73-4498-b3f4-3c17f36a60f7" />
+<validation step="B378C3F4-8736-4345-B460-EBA2AD15103C" />
 
 # Question 4:
 
-<validation step="ac920c8d-307e-4d40-a4f5-120d4cf9106b" />
+<validation step="6A164B55-DE10-45C0-80E4-D144931BCBC4" />
 
 # Question 5:
 
-<validation step="2c5fc6cf-0325-4bc7-ac3c-e7e88067a68a" />
+<validation step="0650B3A9-5844-45AE-9404-A8907CCBF46F" />
 
 # Question 6:
 
-<validation step="d1affdb3-ae32-4196-aed6-4f95f2cb1ace" />
+<validation step="AC6C2898-3034-4947-8CA9-0598B95CA598" />
 
 
 
