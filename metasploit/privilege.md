@@ -66,4 +66,4 @@ We will first set up a low-privileged shell using Metasploit, which you will the
 
 # Validation 2: Privilege Escalation
 
-<validation step="474a2c1f-3736-4a89-9f59-e9c6dede4ca5" />
+<validation step="BDB29F73-BCF7-400C-BEAA-2DD52B62865A" />
